@@ -1,0 +1,1 @@
+cl /EHsc aoc_03.cpp && aoc_03
